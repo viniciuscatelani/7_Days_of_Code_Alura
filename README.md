@@ -7,7 +7,6 @@ Os projetos neste repositório foram desenvolvidos utilizando as seguintes tecno
 * Jupyter Notebook: Para a criação e execução interativa dos notebooks.
 * Python Pandas: Para manipulação e análise de dados.
 * Machine Learning: Aplicações e conceitos de aprendizado de máquina.
-* HTML: (Em menor proporção) Pode estar presente em algumas saídas ou visualizações.
 
 ## 📂 Estrutura do Projeto
 O repositório é organizado em pastas para facilitar a navegação pelos diferentes tópicos abordados:
